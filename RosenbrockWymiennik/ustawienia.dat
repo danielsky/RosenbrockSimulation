@@ -1,0 +1,41 @@
+#gestosc plynu w rurze wewnętrznej [kg/m^3]
+2
+#cieplo wlasciwe plynu w rurze wewnetrznej [J/kg*K]
+1000
+#gestosc plynu w rurze wewnętrznej [kg/m^3]
+1.2
+#cieplo wlasciwe plynu w rurze wewnetrznej [J/kg*K]
+1000
+#gestosc scianki wewnetrznej [kg/m^3]
+8920
+#cieplo wlasciwe scianki wewnetrznej [J/kg*K]
+380
+#gestosc scianki zewnetrznej [kg/m^3]
+8920
+#cieplo wlasciwe scianki wewnetrznej [J/kg*K]
+380
+#Średnica wewnetrzna rury wewnętrznej [mm]
+50
+#Średnica zewnetrzna rury wewnętrznej [mm]
+52
+#Średnica wewnetrzna rury zewnętrznej [mm]
+100
+#Średnica zewnetrzna rury zewnętrznej [mm]
+105
+#predkosc plynu wewnetrznego [m/s]
+0.1
+#predkosc plynu zewnetrznego [m/s]
+0.05
+#Długość wymiennika [mm]
+400
+#PARAMETRY METODY OPTYMALIZACYJNEJ
+#Ilosc zmiennych
+3
+#Wspolczynnik kontrakcji
+0.5
+#Wspolczynnik ekspansji
+3.0
+#krok
+1.0
+#maksymalna ilosc iteracji
+100
